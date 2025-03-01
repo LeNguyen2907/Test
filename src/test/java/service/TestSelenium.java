@@ -38,9 +38,9 @@ public class TestSelenium {
 //        driver.findElement(By.xpath("//a[@id='register-btn']")).click();
 
 //        DangNhap
-        driver.findElement(By.xpath("//input[@id='account']")).sendKeys("0456789987");
-        driver.findElement(By.xpath("//input[@id='pass']")).sendKeys("Nguyen123");
-
-        driver.findElement(By.xpath("//a[@id='signin-btn']")).click();
+//        driver.findElement(By.xpath("//input[@id='account']")).sendKeys("0456789987");
+//        driver.findElement(By.xpath("//input[@id='pass']")).sendKeys("Nguyen123");
+//
+//        driver.findElement(By.xpath("//a[@id='signin-btn']")).click();
     }
 }
