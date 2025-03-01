@@ -22,9 +22,9 @@ public class TestSelenium {
 
         driver.get("https://vitimex.com.vn/");
 
-        driver.findElement(By.xpath("//div[@class='li_log']//a[@data-bs-toggle='modal']//*[name()='svg']//*[name()='path' and contains(@d,'M3 20C5.33')]")).click();
-
-        Thread.sleep(2000);
+//        driver.findElement(By.xpath("//div[@class='li_log']//a[@data-bs-toggle='modal']//*[name()='svg']//*[name()='path' and contains(@d,'M3 20C5.33')]")).click();
+//
+//        Thread.sleep(2000);
 
 //        DangKy
 //        driver.findElement(By.xpath("//a[contains(text(),'Đăng ký tài khoản mới')]")).click();
